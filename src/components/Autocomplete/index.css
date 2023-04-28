@@ -1,0 +1,32 @@
+.autocomplete__holder {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+}
+
+.auto_complete_input_wrapper {
+    display: flex;
+    flex: 1;
+
+    border: 1px solid #323232;
+    border-radius: 3px;
+}
+
+.auto_complete_input {
+    display: flex;
+    flex: 1;
+
+    padding: 10px;
+    font-size: 15px;
+    width: 100%;
+
+    position: relative;
+}
+
+img.auto_complete_img {
+    width: 18px;
+    height: 18px;
+}
